@@ -1,2 +1,7 @@
-# Isshiki-Card-System
-一色发卡
+# 一色发卡
+因厨力过高而预启动的项目。本质是个发卡平台。用于练习PHP，VUE。
+
+预计与2020.8开工。
+
+![一色小天使](https://ae03.alicdn.com/kf/H73c00810c54d413696a1a69f2c391b57S.png)
+
